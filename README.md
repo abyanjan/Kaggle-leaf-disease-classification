@@ -1,5 +1,5 @@
 # Kaggle-leaf-disease-classification
-kaggle Leaf disease classification with transfer learning
+kaggle Leaf disease classification with transfer learning and Python
 
 
 This repo includes performing image classification with transfer learning using Tensorflow and Fastai.
